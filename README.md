@@ -1,2 +1,15 @@
-# base-plan-skeleton
-Template for all new Chef Base Plans to simplify creation of repositories.
+# cpanminus
+
+cpanminus is a script to get, unpack, build and install modules from CPAN and does nothing else.
+
+## Maintainers
+
+* The Habitat Maintainers: <humans@habitat.sh>
+
+## Type of Package
+
+Binary package
+
+## Usage
+
+*TODO: Add instructions for usage*
