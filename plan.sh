@@ -1,5 +1,5 @@
 pkg_name=cpanminus
-pkg_version=1.7044
+pkg_version=1.9019
 pkg_origin=core
 pkg_license=('Artistic-2.0')
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
@@ -8,7 +8,7 @@ pkg_upstream_url=http://cpanmin.us
 pkg_source=https://github.com/miyagawa/${pkg_name}/archive/${pkg_version}.tar.gz
 pkg_filename=${pkg_name}-${pkg_version}.tar.gz
 pkg_dirname=${pkg_name}-${pkg_version}
-pkg_shasum=a5407a85c2f3dda74dfc2241c68dafb9951f2a6eeada0a0eea9e7238a482c195
+pkg_shasum=d0a37547a3c4b6dbd3806e194cd6cf4632158ebed44d740ac023e0739538fb46
 pkg_build_deps=(
   core/coreutils
   core/curl
